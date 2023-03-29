@@ -15,3 +15,5 @@
 ![](./plots/random.png)
 
 # Пункт 3
+
+![](./plots/merge.png)
