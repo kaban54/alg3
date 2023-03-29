@@ -8,4 +8,10 @@
 
 # Пункт 2
 
+![](./plots/median.png)
+
+![](./plots/center.png)
+
+![](./plots/random.png)
+
 # Пункт 3
