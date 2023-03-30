@@ -41,7 +41,7 @@ int main (void)
     }
     fclose (file);
 
-
+/*
     file = fopen ("output/bubbleSort.txt", "w");
 
     for (size_t size = 1000; size <= 50000; size += 1000)
@@ -90,4 +90,5 @@ int main (void)
     fclose (file);
 
     return 0;
+    */
 }
