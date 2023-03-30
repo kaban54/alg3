@@ -1,19 +1,11 @@
 # Пункт 1
 
-![](./plots/insertion.png)
-
-![](./plots/bubble.png)
-
-![](./plots/selection.png)
+![](./plots/p1.png)
 
 # Пункт 2
 
-![](./plots/median.png)
-
-![](./plots/center.png)
-
-![](./plots/random.png)
+![](./plots/p2.png)
 
 # Пункт 3
 
-![](./plots/merge.png)
+![](./plots/p3.png)
